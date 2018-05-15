@@ -8,14 +8,19 @@
 
 1. <b>自我分析</b> <br>
 找到自己喜欢的一个方向，并把这个方向发展成你所擅长的能力。<br>
-    - 比如是喜欢与技术编程相关
-        - 网站开发 (比如喜欢网站开发的， 可以去学习一些比较流行的框架React, Vue，Node, Webpack)
+    - 比如是喜欢技术编程相关的，可以先选一个领域去学习并发展:
+        - 网站开发 (喜欢网站开发的， 可以去学习一些比较流行的框架React, Vue，Node, Webpack)
         - 手机应用开发（Swift/Objective-C for IOS, Kotlin/Java for Android. 或者Hybrid App）
         - 游戏开发（可以去学习游戏引擎的使用， Unity 或者 Unreal Engine 4）
-        - 数据分析
+        - 机器学习，数据挖掘
+        - 人工智能
+        - IoT（可以玩玩Raspberry Pi 或者 Arduino.）
+        - 等等
 
     - 比如是喜欢设计相关 
         - 可以建一个自己的Portfolio展示自己的作品
+        - 喜欢网页UI设计的，可以去了解一下前端页面流行的设计原则或者框架: Material Design, Ant Design, Bootstrap
+        - 喜欢游戏3D模型设计的，可以去学习使用一些3D建模软件: Maya, Blender, etc.
 
     - 比如是喜欢人际关系
         - 可以考虑IT Consultant
@@ -34,5 +39,8 @@
 
 6. <b>人脉</b> <br>
 人脉在澳洲十分重要（其实在哪里都很重要）。虽然我自己不太喜欢社交，但是通过一次实习，就被推荐给了两个导师当Research Assistant。可见人脉的重要性。
+
+7. <b>算法刷题</b> <br>
+[LeetCode](https://leetcode.com/), Project Euler, [Hackerrank](https://www.hackerrank.com/)
 
 <b>猛戳</b>：[李雪冰学长的Talk take-away](tech-interview-tips-14-05-2018.md)

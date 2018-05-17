@@ -54,7 +54,7 @@ facebook 兴趣群组  （同上）
 
 **一些找工作网站的渠道**
 
-rigit （学生找entry level的工作，实习）
+ribit （学生找entry level的工作，实习）
 
 [https://www.ribit.net/](https://www.ribit.net/)
 

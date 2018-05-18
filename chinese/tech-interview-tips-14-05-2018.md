@@ -2,6 +2,9 @@
 2018年5月14日于墨尔本大学Chemical and Biomolecular Engineering Building G20
 
 ## 选择公司
+### Great Place to Work评比
+http://www.greatplacetowork.com.au/best-companies/best-places-to-work-in-australia-100-or-more-employees
+
 ### conference和meetup的演讲者工作的公司
 
 ### conference和meetup的赞助商
